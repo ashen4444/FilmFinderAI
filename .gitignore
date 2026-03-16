@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 data/movies_metadata.csv
+data/movie_embeddings.npy
